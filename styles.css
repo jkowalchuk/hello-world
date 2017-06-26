@@ -1,0 +1,18 @@
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+color: pink;
+}
+
+h1 {
+  color: blue;
+  font-size: 250%;
+}
+
+img {
+  width: auto;
+  height: 150px;
+display: block;
+margin-left: 10%;
+margin-right: 10%;
+}
